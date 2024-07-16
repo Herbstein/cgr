@@ -1,3 +1,5 @@
 package something;
 
-class FooBar {}
+class FooBar {
+    public static void main(String[] args) {}
+}

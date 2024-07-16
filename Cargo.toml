@@ -5,4 +5,5 @@ edition = "2021"
 
 [dependencies]
 bitflags = "2.5.0"
+cesu8 = "1.1.0"
 nom = "7.1.3"

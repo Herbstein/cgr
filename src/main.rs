@@ -1,4 +1,4 @@
-use cgr::ClassFile;
+use cgr::classfile::ClassFile;
 
 fn main() -> Result<(), Box<dyn std::error::Error>> {
     let file = std::env::args()
